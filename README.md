@@ -17,4 +17,4 @@ A Python-based application that helps users track expenses, analyze spending pat
 
 ## ▶️ How to Run
 ```bash
-python Expense_tracker.py
+python main.py
